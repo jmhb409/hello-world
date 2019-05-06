@@ -1,2 +1,2 @@
 # hello-world
-My starter repository
+My starter repository -- This is just the start.
